@@ -197,17 +197,30 @@ I'm focused on continuously improving my ability to build applications that are 
 ## 📊 GitHub Overview
 
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=putra-bit&theme=github-compact&hide_border=true&area=true&custom_title=Putra%27s%20Development%20Activity"
+    width="96%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putra-bit&theme=github_dark"
-  width="96%"
-  alt="GitHub Profile Details"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=putra-bit&theme=github-dark-blue&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putra-bit&theme=github_dark"
+    width="96%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <br>
-
 ## 🤝 Let's Connect
 
 <p align="center">
