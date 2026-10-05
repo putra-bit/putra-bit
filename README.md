@@ -1,83 +1,62 @@
 <h1 align="center">Hi there, I'm Putra Abdul Azis 👋</h1>
 
-<h3 align="center">Flutter Mobile App Developer • Cross-Platform Developer • Based in Indonesia 🇮🇩</h3>
+<h3 align="center">
+  Flutter Mobile App Developer • Cross-Platform Developer • Indonesia 🇮🇩
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer;Building+Mobile+Applications;Cross-Platform+App+Development;Turning+Ideas+Into+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+Mobile+Applications;Turning+Ideas+Into+Apps;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/putra-abdul-azis-05716a320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/putra-bit" target="_blank">
+  <a href="https://github.com/putra-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://pxzenon.netlify.app" target="_blank">
+  <a href="https://www.linkedin.com/in/putra-abdul-azis-05716a320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pxzenon.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <br>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 📱 Focused on building **mobile applications** with Flutter & Dart
-- 🚀 Developing **cross-platform applications** with a focus on clean UI and usability
+I'm a **Flutter Mobile App Developer from Indonesia** focused on building practical, user-friendly, and cross-platform applications.
+
+I enjoy turning ideas and real-world problems into functional applications while continuously improving my skills in **Flutter, Dart, UI development, and application architecture**.
+
+- 📱 Focused on **Flutter & Mobile App Development**
+- 🎯 Interested in building practical applications that solve real problems
 - 🏆 **1st Place — City Level** at LKS Software Solution for Business
 - 🥈 **2nd Place — Provincial Level** at LKS Software Solution for Business
-- 🌱 Continuously learning Flutter, Dart, app architecture, and modern development practices
-- 💡 Interested in turning real-world problems into useful applications
-- 💼 Open to freelance projects, collaborations, and opportunities in mobile app development
+- 🚀 Experienced in developing applications for mobile and desktop
+- 🌱 Currently improving my Flutter, Dart, and software development skills
+- 💼 Open to freelance projects, collaborations, and development opportunities
 
 <br>
 
-## 🛠️ Tech Stack
+## 🏆 Achievements
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="48" height="48"/>
-  </a>
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="48" height="48"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-  </a>
-</p>
+<div align="center">
+
+### 🥇 1st Place — City Level
+
+**LKS — Software Solution for Business**
+
+Developed a software solution as part of the LKS competition and achieved **1st place at the city level**.
 
 <br>
 
-## 📊 GitHub Stats
+### 🥈 2nd Place — Provincial Level
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=putra-bit&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putra-bit&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+**LKS — Software Solution for Business**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=putra-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+Advanced to the provincial level and achieved **2nd place at the provincial level**.
 
-<br>
-
-## 🏆 Awards & Achievements
-
-| Achievement | Details |
-|---|---|
-| 🥇 **1st Place — City Level** | LKS (Lomba Kompetensi Siswa), Software Solution for Business |
-| 🥈 **2nd Place — Provincial Level** | LKS (Lomba Kompetensi Siswa), Software Solution for Business |
-| 📱 **UMKM Mobile Application** | Developed a mobile application designed to support and manage UMKM activities |
-| ✈️ **Bromo Airlines** | Developed a Flutter-based airline booking and management application |
+</div>
 
 <br>
 
@@ -85,49 +64,174 @@
 
 ### 📱 UMKM Mobile
 
-A Flutter mobile application designed to support **UMKM (Micro, Small, and Medium Enterprises)** with practical digital tools and business-oriented features.
+A Flutter-based mobile application designed to help **UMKM (Micro, Small, and Medium Enterprises)** manage and support their business activities through a digital platform.
 
-**Built with:**
+**Focus**
 
-`Flutter` `Dart` `Mobile Development`
+- 📱 Mobile-first experience
+- 🧩 Practical business features
+- 🎨 Clean and intuitive UI
+- ⚡ Cross-platform development
+
+**Tech Stack**
+
+`Flutter` `Dart`
 
 ---
 
 ### ✈️ Bromo Airlines
 
-A Flutter application for **airline ticket booking and management**, developed as part of the LKS Software Solution for Business competition.
+A Flutter-based application for **airline ticket booking and management**, developed as part of the LKS Software Solution for Business competition.
 
 🏆 **1st Place — City Level**  
 🥈 **2nd Place — Provincial Level**
 
-**Built with:**
+**Tech Stack**
 
-`Flutter` `Dart` `Desktop Development`
+`Flutter` `Dart`
 
-**[View Repository](https://github.com/putra-bit/bromo-airlines)** · **[Portfolio](https://pxzenon.netlify.app)**
+<p>
+  <a href="https://github.com/putra-bit/bromo-airlines">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
+
+---
+
+### 📱 PDAM Mobile
+
+A Flutter mobile application focused on providing a digital interface for PDAM-related services.
+
+**Tech Stack**
+
+`Flutter` `Dart`
+
+<p>
+  <a href="https://github.com/putra-bit/pdam_mobile">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
 
 <br>
 
-## 🎯 Current Focus
+## 📈 Development Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=putra-bit&theme=github-compact&hide_border=true&area=true&custom_title=Putra%27s%20Development%20Activity"
+    width="96%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<br>
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,git,github,linux&theme=dark" />
+
+</p>
+
+<br>
+
+## 💻 What I Build
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 📱 Mobile Apps
+
+Building cross-platform mobile applications with Flutter.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 UI Development
+
+Creating clean, responsive, and user-friendly interfaces.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ App Development
+
+Turning ideas and real-world problems into working applications.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌱 Currently Learning
 
 ```text
-Flutter Development
-       ↓
-Mobile Application Development
-       ↓
-Clean UI & User Experience
-       ↓
-App Architecture & State Management
-       ↓
-Building Real-World Applications
+Flutter
+   │
+   ├── UI & Responsive Design
+   ├── State Management
+   ├── Clean Architecture
+   ├── REST API Integration
+   ├── Local Storage
+   └── Production App Development
 ```
 
 <br>
 
+## 📌 Development Philosophy
+
+> Build it.  
+> Understand it.  
+> Improve it.  
+> Repeat.
+
+I'm focused on continuously improving my ability to build applications that are not only functional, but also **maintainable, useful, and enjoyable to use**.
+
+<br>
+
+## 📊 GitHub Overview
+
 <p align="center">
-  <i>Building useful applications, one project at a time.</i>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putra-bit&theme=github_dark"
+  width="96%"
+  alt="GitHub Profile Details"
+/>
+
+</p>
+
+<br>
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/putra-bit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/putra-abdul-azis-05716a320/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://pxzenon.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>Building useful apps, one project at a time.</i>
 </p>
 
 <p align="center">
-  <b>⭐ Explore my repositories and follow my journey in Flutter development.</b>
+  ⭐ Thanks for visiting my profile!
 </p>
