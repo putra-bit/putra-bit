@@ -37,7 +37,7 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,sqlite,git,github,linux,vercel,netlify,html,css,js&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,sqlite,git,github,linux&theme=dark&perline=6" alt="Tech Stack" />
 </p>
 
 <br>
