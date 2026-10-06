@@ -22,7 +22,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm a **Flutter Mobile App Developer** from Indonesia specializing in building practical, high-performance, and cross-platform applications. From structuring clean architectures to implementing offline-first local databases, I focus on transforming real-world problems into seamless mobile experiences.
 
@@ -34,17 +34,14 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 
 <br>
 
-## 🧰 Tech Stack & Tools
+ 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,supabase,firebase,sqlite,git,github,&theme=dark&perline=9" alt="Tech Stack" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" alt="Android">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,supabase,firebase,git,github&theme=dark&perline=9" alt="Tech Stack" />
 </p>
 
 <br>
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -79,7 +76,7 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 
 <br>
 
-## 📊 GitHub Analytics
+ 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=putra-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
@@ -92,7 +89,7 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 
 <br>
 
-## 🌱 Current Focus
+ 🌱 Current Focus
 
 ```text
 Flutter Ecosystem
