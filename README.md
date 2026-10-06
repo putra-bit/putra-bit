@@ -114,17 +114,6 @@ A Flutter mobile application focused on providing a digital interface for PDAM-r
 
 <br>
 
-## 📈 Development Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=putra-bit&theme=github-compact&hide_border=true&area=true&custom_title=Putra%27s%20Development%20Activity"
-    width="96%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br>
 
 ## 🧰 Tech Stack
 
@@ -195,14 +184,6 @@ I'm focused on continuously improving my ability to build applications that are 
 <br>
 
 ## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=putra-bit&theme=github-compact&hide_border=true&area=true&custom_title=Putra%27s%20Development%20Activity"
-    width="96%"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 <p align="center">
   <img
