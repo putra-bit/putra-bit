@@ -29,7 +29,7 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 - 🚀 Founder and Lead Developer at **Wijaksara Studio**
 - 🛠️ Specializing in **Flutter, Dart, SQLite (sqflite_ffi), and Clean Architecture**
 - 🏆 **1st Place (City)** & **2nd Place (Provincial)** at LKS Software Solution for Business
-- 🐧 Linux enthusiast, optimizing development workflows on Arch Linux
+- 🐧 Linux enthusiast, optimizing development workflows on Ubuntu
 - 💼 Open to freelance projects, startup collaborations, and mobile development roles
 
 <br>
