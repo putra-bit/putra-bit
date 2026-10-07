@@ -1,11 +1,7 @@
-<h1 align="center">Hi there, I'm Putra Abdul Azis 👋</h1>
-
-<h3 align="center">
-  Flutter Mobile App Developer • Indonesia 🇮🇩
-</h3>
+<h1 align="center">Hi, I'm Putra Abdul Azis 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+Offline-First+Mobile+Apps;Turning+Ideas+Into+Scalable+Products;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+  <strong>Flutter Developer • Mobile Application Development • Indonesia 🇮🇩</strong>
 </p>
 
 <p align="center">
@@ -13,148 +9,192 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/putra-abdul-azis">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://pxzenon.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
----
-
- 💫 About Me
-
-I'm a **Flutter Mobile App Developer from Indonesia** specializing in building practical, high-performance, and cross-platform applications. From structuring clean architectures to implementing offline-first local databases, I focus on transforming real-world problems into seamless mobile experiences.
-
-- 🚀 Founder and Lead Developer at **Wijaksara Studio**
-- 🛠️ Specializing in **Flutter, Dart, SQLite, sqflite_ffi, and Clean Architecture**
-- 🏆 **1st Place (City)** & **2nd Place (Provincial)** at LKS Software Solution for Business
-- 🐧 Linux enthusiast, optimizing development workflows on Ubuntu
-- 💼 Open to freelance projects, startup collaborations, and mobile development roles
-
----
-
- 🧰 Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,supabase,firebase,sqlite,git,github,linux&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Building+Practical+Mobile+Applications;Offline-First+%7C+SQLite+%7C+Clean+Architecture;Learning+%26+Building+Every+Day" alt="Typing SVG"/>
 </p>
 
 ---
 
- 🚀 Featured Projects
+## 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✈️ Bromo Airlines</h3>
-      <p>
-        A comprehensive airline ticket booking and management application
-        built for the LKS Software Solution for Business competition.
-      </p>
-      <p>
-        🏆 <b>1st Place</b> — City Level<br>
-        🥈 <b>2nd Place</b> — Provincial Level
-      </p>
-      <p>
-        <code>Flutter</code>
-        <code>Dart</code>
-        <code>Clean Architecture</code>
-      </p>
-      <a href="https://github.com/putra-bit/bromo-airlines">
-        View Repository →
-      </a>
-    </td>
+I'm a **Flutter Mobile App Developer from Indonesia** focused on building practical, reliable, and maintainable mobile applications.
 
-    <td width="50%" valign="top">
-      <h3>🛒 Kasir App</h3>
-      <p>
-        A high-performance Point of Sale application utilizing atomic
-        transactions and sync queue management for robust offline capabilities.
-      </p>
-      <p>
-        ⚙️ <b>Features:</b> SQLite local storage & Google Sheets synchronization.
-      </p>
-      <p>
-        <code>Flutter</code>
-        <code>SQLite</code>
-        <code>sqflite_ffi</code>
-      </p>
-    </td>
-  </tr>
+I enjoy turning real-world problems into software through clean architecture, offline-first design, local data persistence, and thoughtful user experiences.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 UMKM Mobile</h3>
-      <p>
-        A digital platform designed to help Micro, Small, and Medium
-        Enterprises manage their daily business activities intuitively.
-      </p>
-      <p>
-        <code>Flutter</code>
-        <code>Mobile-First UI</code>
-      </p>
-    </td>
+```text
+Focus
+├── 📱 Cross-platform Mobile Development
+├── 🏗️ Clean & Maintainable Architecture
+├── 💾 Offline-First Applications
+├── ⚡ Performance & Reliability
+└── 🚀 Turning Ideas Into Real Products
+```
 
-    <td width="50%" valign="top">
-      <h3>💧 PDAM Mobile</h3>
-      <p>
-        A focused mobile application providing a streamlined digital
-        experience for local PDAM water utility services.
-      </p>
-      <p>
-        <code>Flutter</code>
-        <code>Dart</code>
-      </p>
-      <a href="https://github.com/putra-bit/pdam_mobile">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-</table>
+- 🚀 Founder & Lead Developer at **Wijaksara Studio**
+- 🛠️ Primarily working with **Flutter & Dart**
+- 💾 Experienced with **SQLite / sqflite_ffi**
+- 🔥 Exploring **Firebase & Supabase**
+- 🐧 Linux enthusiast & Ubuntu user
+- 🏆 LKS Software Solution for Business competitor
+- 💼 Interested in freelance work, collaborations, and professional mobile development opportunities
 
 ---
 
- 🌱 Current Focus
+## 🧰 Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile Development"/>
+</p>
+
+### 💾 Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,sqlite&theme=dark" alt="Backend and Database"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Development Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Bromo Airlines
+
+**Airline ticket booking & management application** developed for the LKS Software Solution for Business competition.
+
+**Highlights**
+- 🏆 1st Place — City Level
+- 🥈 2nd Place — Provincial Level
+- 🏗️ Clean Architecture
+- 📱 Flutter & Dart
+
+<a href="https://github.com/putra-bit/bromo-airlines">
+  View Repository →
+</a>
+
+---
+
+### 🛒 Kasir App
+
+An **offline-first Point of Sale application** designed for reliable operation even with limited connectivity.
+
+**Highlights**
+- 💾 SQLite local database
+- 🔄 Synchronization queue
+- ⚛️ Atomic database transactions
+- 📊 Google Sheets synchronization
+- ⚡ Designed for fast local operations
+
+**Stack:** `Flutter` `Dart` `SQLite` `sqflite_ffi`
+
+---
+
+### 💧 PDAM Mobile
+
+A mobile application concept focused on improving the digital experience for local **PDAM water utility services**.
+
+**Stack:** `Flutter` `Dart`
+
+<a href="https://github.com/putra-bit/pdam_mobile">
+  View Repository →
+</a>
+
+---
+
+### 📱 UMKM Mobile
+
+A mobile-first platform designed to help **Micro, Small, and Medium Enterprises** manage their daily business activities through a simple digital experience.
+
+**Stack:** `Flutter` `Dart`
+
+---
+
+## 🏆 Achievement
+
+<p align="center">
+
+| Achievement | Result |
+|---|---|
+| 🥇 LKS Software Solution for Business — City Level | **1st Place** |
+| 🥈 LKS Software Solution for Business — Provincial Level | **2nd Place** |
+
+</p>
+
+---
+
+## 🎯 Currently Learning
 
 ```text
-Flutter Ecosystem
-   │
-   ├── Advanced State Management & Architecture
-   ├── Offline-First Synchronization
-   ├── SQLite & Local Data Persistence
-   ├── Performance Profiling & Optimization
-   ├── Supabase & Firebase Integration
-   └── Production-Ready Mobile Applications
+Flutter
+ │
+ ├── Clean Architecture
+ ├── State Management
+ ├── Advanced UI & UX
+ ├── Performance Optimization
+ │
+ └── Production Applications
+
+Data
+ │
+ ├── SQLite
+ ├── Offline-First Architecture
+ ├── Data Synchronization
+ └── Local Persistence
+
+Backend
+ │
+ ├── Supabase
+ └── Firebase
 ```
 
 ---
 
- 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=putra-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=putra-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=putra-bit&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=putra-bit&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=putra-bit&theme=dark&hide_border=false" width="97%" alt="GitHub Streak"/>
-</p>
-
----
-
- ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://streak-stats.demolab.com/?user=putra-bit&theme=dark&hide_border=true" width="97%" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=putra-bit&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=putra-bit&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=putra-bit&style=flat-square&color=42A5F5" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <sub>Building practical software, learning continuously, and turning ideas into products.</sub>
 </p>
