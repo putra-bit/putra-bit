@@ -20,74 +20,100 @@
   </a>
 </p>
 
-<br>
+---
 
- 👨‍💻 About Me
+ 💫 About Me
 
-I'm a **Flutter Mobile App Developer** from Indonesia specializing in building practical, high-performance, and cross-platform applications. From structuring clean architectures to implementing offline-first local databases, I focus on transforming real-world problems into seamless mobile experiences.
+I'm a **Flutter Mobile App Developer from Indonesia** specializing in building practical, high-performance, and cross-platform applications. From structuring clean architectures to implementing offline-first local databases, I focus on transforming real-world problems into seamless mobile experiences.
 
 - 🚀 Founder and Lead Developer at **Wijaksara Studio**
-- 🛠️ Specializing in **Flutter, Dart, SQLite (sqflite_ffi), and Clean Architecture**
+- 🛠️ Specializing in **Flutter, Dart, SQLite, sqflite_ffi, and Clean Architecture**
 - 🏆 **1st Place (City)** & **2nd Place (Provincial)** at LKS Software Solution for Business
 - 🐧 Linux enthusiast, optimizing development workflows on Ubuntu
 - 💼 Open to freelance projects, startup collaborations, and mobile development roles
 
-<br>
+---
 
  🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,supabase,firebase,git,github&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,supabase,firebase,sqlite,git,github,linux&theme=dark&perline=9" alt="Tech Stack" />
 </p>
 
-<br>
-🚀 Featured Projects
+---
+
+ 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ Bromo Airlines</h3>
-      <p>A comprehensive airline ticket booking and management application built for the LKS Software Solution for Business competition.</p>
-      <p>🏆 <b>1st Place</b> — City Level<br>🥈 <b>2nd Place</b> — Provincial Level</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Clean Architecture</code></p>
-      <a href="https://github.com/putra-bit/bromo-airlines">View Repository →</a>
+      <p>
+        A comprehensive airline ticket booking and management application
+        built for the LKS Software Solution for Business competition.
+      </p>
+      <p>
+        🏆 <b>1st Place</b> — City Level<br>
+        🥈 <b>2nd Place</b> — Provincial Level
+      </p>
+      <p>
+        <code>Flutter</code>
+        <code>Dart</code>
+        <code>Clean Architecture</code>
+      </p>
+      <a href="https://github.com/putra-bit/bromo-airlines">
+        View Repository →
+      </a>
     </td>
+
     <td width="50%" valign="top">
-      <h3>🛒 Kasir App (Offline-First POS)</h3>
-      <p>A high-performance Point of Sale application utilizing atomic transactions and sync queue management for robust offline capabilities.</p>
-      <p>⚙️ <b>Feature:</b> SQLite local storage & Google Sheets sync.</p>
-      <p><code>Flutter</code> <code>SQLite</code> <code>sqflite_ffi</code></p>
+      <h3>🛒 Kasir App</h3>
+      <p>
+        A high-performance Point of Sale application utilizing atomic
+        transactions and sync queue management for robust offline capabilities.
+      </p>
+      <p>
+        ⚙️ <b>Features:</b> SQLite local storage & Google Sheets synchronization.
+      </p>
+      <p>
+        <code>Flutter</code>
+        <code>SQLite</code>
+        <code>sqflite_ffi</code>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>📱 UMKM Mobile</h3>
-      <p>A digital platform designed to help Micro, Small, and Medium Enterprises manage their daily business activities intuitively.</p>
-      <p><code>Flutter</code> <code>Mobile-First UI</code></p>
+      <p>
+        A digital platform designed to help Micro, Small, and Medium
+        Enterprises manage their daily business activities intuitively.
+      </p>
+      <p>
+        <code>Flutter</code>
+        <code>Mobile-First UI</code>
+      </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>💧 PDAM Mobile</h3>
-      <p>A focused mobile interface providing a streamlined digital experience for local PDAM water utility services.</p>
-      <p><code>Flutter</code> <code>Dart</code></p>
-      <a href="https://github.com/putra-bit/pdam_mobile">View Repository →</a>
+      <p>
+        A focused mobile application providing a streamlined digital
+        experience for local PDAM water utility services.
+      </p>
+      <p>
+        <code>Flutter</code>
+        <code>Dart</code>
+      </p>
+      <a href="https://github.com/putra-bit/pdam_mobile">
+        View Repository →
+      </a>
     </td>
   </tr>
 </table>
 
-<br>
-
- 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=putra-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putra-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=putra-bit&theme=tokyonight&hide_border=true&background=0D1117" width="97%" alt="GitHub Streak" />
-</p>
-
-<br>
+---
 
  🌱 Current Focus
 
@@ -95,6 +121,40 @@ I'm a **Flutter Mobile App Developer** from Indonesia specializing in building p
 Flutter Ecosystem
    │
    ├── Advanced State Management & Architecture
-   ├── Offline-First Synchronization (SQLite)
+   ├── Offline-First Synchronization
+   ├── SQLite & Local Data Persistence
    ├── Performance Profiling & Optimization
-   └── Web Deployment Pipelines (Vercel/Netlify)
+   ├── Supabase & Firebase Integration
+   └── Production-Ready Mobile Applications
+```
+
+---
+
+ 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=putra-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=putra-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=putra-bit&theme=dark&hide_border=false" width="97%" alt="GitHub Streak"/>
+</p>
+
+---
+
+ ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=putra-bit&icon=0&color=0" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
