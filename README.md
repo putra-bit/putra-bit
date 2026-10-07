@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Putra Abdul Azis 👋</h1>
 
 <h3 align="center">
-  Flutter Mobile App Developer • Founder of Wijaksara Studio • Indonesia 🇮🇩
+  Flutter Mobile App Developer • Indonesia 🇮🇩
 </h3>
 
 <p align="center">
