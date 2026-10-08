@@ -165,13 +165,14 @@ Backend
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=putra-bit&theme=dark&hide_border=true" width="97%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=putra-bit&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=putra-bit&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=putra-bit&theme=dark&hide_border=true" width="97%" alt="GitHub Streak"/>
-</p>
 
 ---
 
